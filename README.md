@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S-o-b-u
 - 🕊️ I'm currently learning new stuffs!
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning c!
+- 🌱 currently work on c!
 - 💞️ I’m looking to collaborate on my ig handle!
 - 📫 How to reach me - souvikrahutofficial@gmail.com
 <!---
