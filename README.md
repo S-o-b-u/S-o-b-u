@@ -27,6 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=S-o-b-u&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=S-o-b-u&icon=6&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=S-o-b-u&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
