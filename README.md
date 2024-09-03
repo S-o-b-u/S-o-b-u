@@ -1,6 +1,11 @@
 # 💫 About Me:
-🌱 Currently learning: Fullstack development with a focus on React and Node.js.<br>💼 Working as a [Your Job Title] at [Your Company].<br>🎓 Graduated from [Your University] with a degree in [Your Degree].<br>🛠️ I enjoy working on open-source projects and contributing to the community.<br><br><br><br>
+👋 Hi, I'm Souvik Rahut! I'm passionate about coding and currently delving into Fullstack Development, focusing on React and Node.js. I love bringing ideas to life through code, especially when it involves creating intuitive and responsive user interfaces.
 
+🌱 I’m currently exploring advanced concepts in React and Next.js, while also experimenting with backend technologies like Express and MongoDB. I believe in continuous learning and constantly challenge myself with new projects and technologies.
+
+🎓 I'm pursuing a B.Tech degree at Guru Nanak Institute of Technology, where I'm honing my skills and working on innovative projects.
+
+📚 When I'm not coding, you'll find me traveling or exploring new places, combining my love for technology with a passion for discovering the world.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100072058624308) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maihoonshobu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souvik-rahut-3059a128a) 
